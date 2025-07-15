@@ -1,0 +1,8 @@
+1. Regularization Techniques
+2. Ensembles (Random Forest, Boosting)
+3. Dimensionality Reduction (PCA, t-SNE)
+4. Advanced Evaluation & Handling Imbalanced Data
+5. Deep Learning Concepts (Dropout, BatchNorm, CNNs)
+6. Interpretability (SHAP, LIME)
+7. Deployment & Monitoring
+8. Specialized Domains (Time Series, NLP, Vision)
